@@ -1,0 +1,14 @@
+{
+  "id": "./",
+  "name": "مدرسة البنك الأهلي",
+  "short_name": "مدرستي",
+  "description": "الموقع التعريفي لمدرسة البنك الأهلي",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#102b50",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
